@@ -10,6 +10,10 @@ object CoilFaceDetector : LifecycleObserver {
     private var faceDetector: FaceDetector? = null
     private var context: Context? = null
 
+    fun init(context: Context){
+        this.context = context.applicationContext
+    }
+
     fun init(context: Context, lifecycle: Lifecycle) {
         this.context = context.applicationContext
         lifecycle.addObserver(this)
