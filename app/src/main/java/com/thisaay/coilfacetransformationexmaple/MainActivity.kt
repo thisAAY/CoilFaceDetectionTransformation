@@ -5,6 +5,7 @@ import android.os.Bundle
 import coil.load
 import com.thisaay.coilfacetransformarionlibrary.FaceCropTransformation
 import com.thisaay.coilfacetransformarionlibrary.CoilFaceDetector
+import com.thisaay.coilfacetransformarionlibrary.FaceCenterCrop
 import com.thisaay.coilfacetransformationexmaple.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -17,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.image
             .load("some_url"){
-                transformations(FaceCropTransformation())
+                transformations(FaceCenterCrop())
             }
     }
 }
