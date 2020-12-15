@@ -1,5 +1,5 @@
 
-# Glide face detection transformation
+# Coil face detection transformation
 
 [![](https://jitpack.io/v/thisAAY/CoilFaceDetectionTransformation.svg)](https://jitpack.io/#thisAAY/CoilFaceDetectionTransformation)
 
