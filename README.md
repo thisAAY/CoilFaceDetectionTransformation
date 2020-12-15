@@ -59,3 +59,5 @@ implementation 'com.google.mlkit:face-detection:16.0.3'
 
 
 **If you liked it, please Star it.**
+
+Huge thanks to  [GlideFaceDetectionTransformation](https://github.com/abhiint16/GlideFaceDetectionTransformation)
