@@ -5,6 +5,18 @@
 
 ### An Android image transformation library providing cropping above Face Detection for [Coil](https://github.com/coil-kt/coil/)
 
+Results
+------
+
+**Original Image**
+
+![original image 2](https://github.com/abhiint16/GlideFaceDetectionTransformation/raw/master/images/original_image2.jpg?raw=true )
+
+**Results after cropping**
+
+![resulting image 2](https://github.com/abhiint16/GlideFaceDetectionTransformation/raw/master/images/result_image2.jpg?raw=true)
+
+
 ### How to use it?
 
 STEP 1:
