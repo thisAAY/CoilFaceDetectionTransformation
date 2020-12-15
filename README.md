@@ -32,7 +32,7 @@ allprojects {
 - Add the dependency
 ```
 dependencies {
-  implementation 'com.github.thisAAY:CoilFaceDetectionTransformation:Tag'
+  implementation 'com.github.thisAAY:CoilFaceDetectionTransformation:1.0.0'
 }
 ```
 STEP 2:
